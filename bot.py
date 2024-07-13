@@ -69,7 +69,7 @@ def sevenzip(fpath: Path, password: str = None, volume = None):
 	
 
 from configs import api_id, api_hash, token
-admins = ['Nanatsu2370']
+admins = ['Nanatsu2370','The_amanzing_spiderman']
 bot = Client("client",api_id,api_hash,bot_token=token) 
 CONFIG = {}
 global_conf = {
